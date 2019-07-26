@@ -9,7 +9,6 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>video_web</module>
-    <module>Video_doamin</module>
     <module>video_domain</module>
     <module>video_dao</module>
     <module>video_service</module>
